@@ -17,7 +17,7 @@ spec:
     spec:
       containers:
       - name: mc-app
-        image: hamad1602/batch1:XYZ
+        image: hamad1602/batch1:4
         ports:
         - containerPort: 8080
 
